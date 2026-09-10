@@ -131,6 +131,12 @@
         </geometry>
         <origin rpy="-0.0 0.0 -0.0" xyz="0.0 0.0 0.0"/>
       </collision>
+      <collision>
+        <geometry>
+          <box size="0.035 0.035 0.03"/>
+        </geometry>
+        <origin rpy="0.0 0.0 0.0" xyz="0 0.094 -0.144"/>
+      </collision>
       <inertial>
         <inertia ixx="0.00390274036654823" ixy="0.0" ixz="0.0" iyy="0.00286930887521153" iyz="0.0" izz="0.00403512413298348"/>
         <mass value="1.509E0"/>
