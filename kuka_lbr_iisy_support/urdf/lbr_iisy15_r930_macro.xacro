@@ -133,7 +133,7 @@
       </collision>
       <collision>
         <geometry>
-          <box size="0.035 0.035 0.03"/>
+          <box size="0.065 0.085 0.065"/>
         </geometry>
         <origin rpy="0.0 0.0 0.0" xyz="0 0.094 -0.144"/>
       </collision>
