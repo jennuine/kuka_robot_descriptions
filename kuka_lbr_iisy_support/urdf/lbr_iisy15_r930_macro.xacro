@@ -67,7 +67,7 @@
     <link name="${prefix}link_3">
       <collision>
         <geometry>
-          <mesh filename="package://${package_name}/meshes/lbr_iisy15_r930/collision/link_3.stl"/>
+          <mesh filename="package://${package_name}/meshes/lbr_iisy15_r930/collision/link_3.stl" scale="1.1 1.1 1.1"/>
         </geometry>
         <origin rpy="-0.0 0.0 -0.0" xyz="0.0 0.0 0.0"/>
       </collision>
@@ -133,7 +133,7 @@
       </collision>
       <collision>
         <geometry>
-          <box size="0.065 0.085 0.065"/>
+          <box size="0.075 0.095 0.065"/>
         </geometry>
         <origin rpy="0.0 0.0 0.0" xyz="0 0.094 -0.144"/>
       </collision>
